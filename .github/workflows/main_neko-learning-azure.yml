@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'neko-learning-azure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26BA8FC9CFBD4487AF76AE50A14BB716 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28C37261F1A7461993A0F2748EE726EB }}
